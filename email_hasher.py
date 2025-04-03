@@ -71,6 +71,7 @@ def main():
         email = sys.argv[1]
         hashed = hash_email(email)
         write_hash_to_file(hashed)
+        print(hashed)
 
     else:
         print("Error: there is no command line argument")
