@@ -49,11 +49,10 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hi I am Nikita. I am hoping to be confident enough in Python that I can answer interview questions well. I would also like to learn Pytorch, Neural Networks, Deep Learning, and all python basics. From the topic list specifically, I would like to see:
+"Neural Networks: If I only had a brain", "Deep Learning with Transformers", "Natural Language Processing (NLP)".
+A musical reccomendation is Hamilton the Braodway Show, truly a 10/10 experience. A link to the best song of the musical is:
+https://www.youtube.com/watch?v=InupuylYdcY
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
